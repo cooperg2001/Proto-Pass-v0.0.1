@@ -1,0 +1,1 @@
+Proto Pass v0.0.1 is a prototype opensource password program meant to be intergrated with other programs

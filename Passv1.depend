@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1464296881 source:c:\users\garnet koebel\documents\programming\c++\passv1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+

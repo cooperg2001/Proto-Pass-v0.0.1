@@ -22,7 +22,7 @@ if(file_.is_open())
        // cout << line_ << '\n';
     }
     file_.close();
-    c = atoi(line_.c_str());
+    c = line_;
 }
 
 else

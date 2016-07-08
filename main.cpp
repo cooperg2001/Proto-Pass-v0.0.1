@@ -54,7 +54,9 @@ if(file_.is_open())
     }
     file_.close();
     c = line_;
+
     decrypt();
+
 }
 
 else
